@@ -10,6 +10,7 @@ profile:
   image_circular: false
   more_info: >
     <p>AIR Lab, Dept. of Computer Science</p>
+    <p>Double major in Statistics</p>
     <p>Kyungpook National University</p>
     <p>Daegu, South Korea</p>
 
@@ -27,7 +28,7 @@ latest_posts:
   limit: 3
 ---
 
-I am a third-year undergraduate student in Computer Science at **Kyungpook National University**, working as an undergraduate researcher at **AIR Lab** under the supervision of **Prof. Jaehyup Lee**.
+I am a third-year undergraduate student at **Kyungpook National University**, majoring in **Computer Science** with a double major in **Statistics**, working as an undergraduate researcher at **AIR Lab** under the supervision of **Prof. Jaehyup Lee**.
 
 My research interests lie in **Computer Vision**, with a focus on **Video Anomaly Detection (VAD)** and **Deepfake Detection**. I am interested in building models that are robust and generalize well to unseen manipulations and real-world scenarios.
 
